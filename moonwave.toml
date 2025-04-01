@@ -1,0 +1,15 @@
+apiCategories = ["hooks", "utilities", "style", "widgets"]
+gitSourceBranch = "main"
+
+[docusaurus]
+url = "https://github.io/StudioEssentials/documentation"
+tagline = "A way to keep better track and usage of your roblox game"
+
+[[navbar.items]]
+href = "https://discord.gg/willaddlaternmnmc"
+label = "Support Discord"
+position = "right"
+
+[home]
+enabled = true
+includeReadme = false
